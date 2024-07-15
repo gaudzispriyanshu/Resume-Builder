@@ -52,7 +52,7 @@ npm run start
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
 
 ### Authors
-- Ansh Chouksey
+- Priyanshu Thakur
 
 ### Contributions
 - We welcome contributions to our website. If you would like to contribute, please submit a pull request on our Github repository.
@@ -62,3 +62,6 @@ npm run start
 
 ### Acknowledgments
 - We would like to thank our users for their support and feedback in making this website a success.
+
+### Deployed Link
+- https://resume-builder-ansh.vercel.app/
